@@ -1,8 +1,9 @@
 # Tribute Page
 This is a tribute page for Shigeru Miyamoto, which is based off of the user stories on Free Code Camp.
 
-###Link:
-http://miyamototribute.surge.sh/
+### Links:
+[Surge Hosted Link](http://miyamototribute.surge.sh/)
+[Codepen Link](https://codepen.io/mattchere/pen/JyGZbq/)
 
 ## User Stories:
 - I can view a tribute page with an image and text.
